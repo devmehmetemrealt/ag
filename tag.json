@@ -1,0 +1,12 @@
+{
+  "isim": "ag",
+  "versiyon": "1.0.0",
+  "aciklama": "TAGScript icin HTTP istekleri ve web araclari",
+  "yazar": "devmehmetemrealt",
+  "lisans": "MIT",
+  "repo": "https://github.com/devmehmetemrealt/ag",
+  "giris": "ag.tag",
+  "python_bagimliliklar": ["requests>=2.28.0"],
+  "bagimliliklar": [],
+  "etiketler": ["http", "web", "api", "ag"]
+}
